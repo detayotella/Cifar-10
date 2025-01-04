@@ -15,7 +15,7 @@ This project focuses on predicting image classes using a Convolutional Neural Ne
 - [License](#license)
 
 ## Overview
-The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. This project aims to build and train a CNN to classify images into one of the 10 classes. 
+The CIFAR-10 dataset contains 60,000 color images, each with dimensions of 32x32 pixels. The images are evenly distributed across 10 different classes, with 6,000 images per class. This project's objective is to develop and train a Convolutional Neural Network (CNN) to accurately classify these images into their respective categories.
 
 ## Dataset
 The CIFAR-10 dataset includes the following 10 classes:
